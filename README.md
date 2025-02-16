@@ -109,4 +109,4 @@ my-access-management-project/
 
 ---
 
-In essence, the project demonstrates how to integrate modern web development (React) with serverless computing (Azure Functions) and workflow automation (Azure Logic Apps) to create a secure, efficient, and scalable solution for managing user access within an enterprise environment.
+by: CheikhB
